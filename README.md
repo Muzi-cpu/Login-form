@@ -1,5 +1,5 @@
 # 🔐 Simple Login Form - README  
-🔗 **GitHub Repository:** https://muzi-cpu.github.io/Login-form/ 
+🔗 **Live Demo:** https://muzi-cpu.github.io/Login-form/ 
 
 ## 🌟 Overview  
 This is a clean and responsive **login form** built with HTML, CSS, and JavaScript. The form includes:  
@@ -25,9 +25,8 @@ project/
 ## 🚀 Installation & Setup  
 1. **Download** the project files  
 2. **Open** `index.html` in any modern web browser  
-3. (Optional) **Deploy** to your preferred hosting service  
-
-🔗 **Live Demo:** [Add Your Demo Link Here]  
+3. (Optional) **Deploy** to your preferred hosting service
+     
 
 ## 🖥️ Usage  
 1. Enter your **email** 📧  
